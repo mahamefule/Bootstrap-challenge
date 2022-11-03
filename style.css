@@ -1,0 +1,24 @@
+div .container {
+    color: blue !important;
+    background-color: blueviolet !important;
+    background-size: auto !important;
+}
+div .row {
+    color: aqua !important;
+    background-color: brown !important;
+    background-size: auto !important;
+}
+.col {
+    color: aquamarine !important;
+    background-color: beige !important;
+    background-size: auto !important;
+}
+body {
+    color: blueviolet !important;
+    background-color: aquamarine !important;
+}
+h1 {
+    color: brown !important;
+    background-color: bisque !important;
+    text-align: center;
+}
