@@ -14,11 +14,11 @@ div .row {
     background-size: auto !important;
 }
 body {
-    color: blueviolet !important;
+    color: rgb(86, 43, 226) !important;
     background-color: aquamarine !important;
 }
 h1 {
-    color: brown !important;
-    background-color: bisque !important;
+    color: rgb(83, 42, 165) !important;
+    background-color: rgb(234, 255, 196) !important;
     text-align: center;
 }
